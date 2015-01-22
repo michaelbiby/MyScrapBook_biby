@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyScrapBook</string>    
+    <string name="action_settings">Settings</string>
+    <string name="Eiffel">Torre Eiffel , Francia</string>
+ 	<string name="pyramid">Pirámide , Egipto</string>
+  	<string name="liberty">Estatua De La Libertad</string>
+   	<string name="wall">Gran Muralla , China</string>
+
+</resources>
